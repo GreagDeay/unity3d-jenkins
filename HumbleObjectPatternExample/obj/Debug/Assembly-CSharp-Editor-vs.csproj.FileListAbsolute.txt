@@ -1,0 +1,16 @@
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\NSubstitute.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\nunit.core.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\nunit.core.interfaces.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\obj\Debug\Assembly-CSharp-Editor.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\obj\Debug\Assembly-CSharp-Editor.pdb

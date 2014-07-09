@@ -1,0 +1,10 @@
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\obj\Debug\Assembly-CSharp.dll
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\obj\Debug\Assembly-CSharp.pdb
