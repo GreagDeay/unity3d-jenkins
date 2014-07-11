@@ -5,6 +5,8 @@ Project("{69B7E370-9367-43B5-7060-62776620B118}") = "HumbleObjectPatternExample"
 EndProject
 Project("{69B7E370-9367-43B5-7060-62776620B118}") = "HumbleObjectPatternExample", "Assembly-CSharp-Editor.csproj", "{AA52E290-0F07-9FF1-B99D-3F4E53F4D62E}"
 EndProject
+Project("{69B7E370-9367-43B5-7060-62776620B118}") = "HumbleObjectPatternExample", "Assembly-UnityScript.unityproj", "{55267115-B3A9-C216-3A15-EB2758EEE0FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,11 +21,15 @@ Global
 		{AA52E290-0F07-9FF1-B99D-3F4E53F4D62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA52E290-0F07-9FF1-B99D-3F4E53F4D62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA52E290-0F07-9FF1-B99D-3F4E53F4D62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55267115-B3A9-C216-3A15-EB2758EEE0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55267115-B3A9-C216-3A15-EB2758EEE0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55267115-B3A9-C216-3A15-EB2758EEE0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55267115-B3A9-C216-3A15-EB2758EEE0FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-						GlobalSection(MonoDevelopProperties) = preSolution
+															GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

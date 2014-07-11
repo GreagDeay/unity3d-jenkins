@@ -14,3 +14,4 @@ C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Deb
 C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\obj\Debug\Assembly-CSharp-Editor-vs.csprojResolveAssemblyReference.cache
 C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\obj\Debug\Assembly-CSharp-Editor.dll
 C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\obj\Debug\Assembly-CSharp-Editor.pdb
+C:\Users\Public\Documents\Unity Projects\HumbleObjectPatternExample\Temp\bin\Debug\Assembly-UnityScript.dll
